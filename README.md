@@ -4,7 +4,7 @@
 
 ```ts
 "paths": {
-  "@/*": ["./*"] // this is causing the error
+  "@/*": ["./*"] // this is working
 }
 ```
 
